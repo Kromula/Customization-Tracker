@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>HTML</link_type>
         <map_page/>
-        <mobile_title>Closed</mobile_title>
+        <mobile_title>All</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_customtrcker_customisations</name>
-        <order>5</order>
+        <order>1</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>active=false^EQ</query>
+        <query>sadsad</query>
         <report/>
-        <roles/>
+        <roles>x_snc_customtrcker.admin,x_snc_customtrcker.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-10 14:54:01</sys_created_on>
+        <sys_created_on>2023-07-10 20:03:26</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>b2fad18c87487d103726ca69cebb3578</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Closed</sys_name>
+        <sys_id>1bc166848740bd103726ca69cebb3505</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
         <sys_overrides/>
         <sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope>
-        <sys_update_name>sys_app_module_b2fad18c87487d103726ca69cebb3578</sys_update_name>
+        <sys_update_name>sys_app_module_1bc166848740bd103726ca69cebb3505</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-10 14:54:01</sys_updated_on>
+        <sys_updated_on>2023-07-10 20:05:02</sys_updated_on>
         <timeline_page/>
-        <title>Closed</title>
+        <title>Dashboard</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

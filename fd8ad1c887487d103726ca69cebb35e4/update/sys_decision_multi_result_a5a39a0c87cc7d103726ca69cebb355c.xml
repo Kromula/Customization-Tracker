@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Customisation Matrix">4350d28487cc7d103726ca69cebb358f</decision_table>
+        <label>Result: Maintain &amp; Review - It is recommended to ensure that this customisation is fully documented and there is a defined support group for this function. It is worth reviewing Out of the box functionality within ServiceNow, to see if this feature can be moved into a ServiceNow supported method.</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 19:01:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a5a39a0c87cc7d103726ca69cebb355c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Result: Maintain &amp; Review - It is recommended to ensure that this customisation is fully documented and there is a defined support group for this function. It is worth reviewing Out of the box functionality within ServiceNow, to see if this feature can be</sys_name>
+        <sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope>
+        <sys_update_name>sys_decision_multi_result_a5a39a0c87cc7d103726ca69cebb355c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 19:01:36</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=a5a39a0c87cc7d103726ca69cebb355c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>a5a39a0c87cc7d103726ca69cebb355c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 19:01:36</sys_created_on>
+        <sys_id>a9a39a0c87cc7d103726ca69cebb355c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 19:01:36</sys_updated_on>
+        <value>Maintain &amp; Review - It is recommended to ensure that this customisation is fully documented and there is a defined support group for this function. It is worth reviewing Out of the box functionality within ServiceNow, to see if this feature can be moved into a ServiceNow supported method.</value>
+        <variable display_value="Result">73b09ec487cc7d103726ca69cebb350f</variable>
+    </sys_variable_value>
+</record_update>

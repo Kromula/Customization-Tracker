@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_recommendation" table="x_snc_customtrcker_customisations">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_decision_input">
+    <sys_decision_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>element_mapping_provider=com.glide.decision_table.data.DecisionTableVariableMapper</attributes>
         <audit>false</audit>
-        <calculation/>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Recommendation</column_label>
+        <column_label>Value Score</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,19 +26,26 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_recommendation</element>
+        <element>u_value_score</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
+        <help/>
+        <hint/>
         <internal_type display_value="String">string</internal_type>
+        <label>Value Score</label>
         <mandatory>false</mandatory>
-        <max_length>2000</max_length>
-        <name>x_snc_customtrcker_customisations</name>
+        <max_length>40</max_length>
+        <model display_value="Customisation Matrix">4350d28487cc7d103726ca69cebb358f</model>
+        <model_id>4350d28487cc7d103726ca69cebb358f</model_id>
+        <model_table>sys_decision</model_table>
+        <name>var__m_sys_decision_input_4350d28487cc7d103726ca69cebb358f</name>
         <next_element/>
+        <order>400</order>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -44,16 +56,16 @@
         <reference_type/>
         <spell_check>false</spell_check>
         <staged>false</staged>
-        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_class_name>sys_decision_input</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-07-10 15:06:21</sys_created_on>
-        <sys_name>Recommendation</sys_name>
+        <sys_created_on>2023-07-10 19:17:51</sys_created_on>
+        <sys_name>Value Score</sys_name>
         <sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_customtrcker_customisations_u_recommendation</sys_update_name>
+        <sys_update_name>sys_decision_input_2b57de808700bd103726ca69cebb35df</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-10 19:55:58</sys_updated_on>
+        <sys_updated_on>2023-07-10 19:17:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -65,5 +77,5 @@
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
-    </sys_dictionary>
+    </sys_decision_input>
 </record_update>

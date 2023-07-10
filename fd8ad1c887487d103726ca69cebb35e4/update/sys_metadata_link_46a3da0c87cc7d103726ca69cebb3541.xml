@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>86a352c887cc7d103726ca69cebb35bf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>d9a39a0887cc7d103726ca69cebb35de</answer>
+        <condition table="var__m_sys_decision_input_4350d28487cc7d103726ca69cebb358f">u_complexity_score=2^u_value_score=5^EQ<item endquery="false" field="u_complexity_score" goto="false" newquery="false" operator="=" or="false" value="2"/>
+            <item endquery="false" field="u_value_score" goto="false" newquery="false" operator="=" or="false" value="5"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Customisation Matrix">4350d28487cc7d103726ca69cebb358f</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_4350d28487cc7d103726ca69cebb358f</input_table>
+        <label>Customisation Matrix_200</label>
+        <order>200</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 19:01:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>86a352c887cc7d103726ca69cebb35bf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Customisation Matrix_200</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope>
+        <sys_update_name>sys_decision_question_86a352c887cc7d103726ca69cebb35bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 19:34:09</sys_updated_on>
+    </sys_decision_question>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 19:01:39</sys_created_on>
+        <sys_id>46a3da0c87cc7d103726ca69cebb3541</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Customisation Matrix_200</sys_name>
+        <sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope>
+        <sys_update_name>sys_metadata_link_46a3da0c87cc7d103726ca69cebb3541</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 19:34:09</sys_updated_on>
+        <tablename>sys_decision_question</tablename>
+    </sys_metadata_link>
+</record_update>

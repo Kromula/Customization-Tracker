@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Customisation Tracker">eefad18c87487d103726ca69cebb3539</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open - Unassigned</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_customtrcker_customisations</name>
+        <order>4</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=true^assigned_toISEMPTY^EQ</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 14:54:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aafad18c87487d103726ca69cebb3544</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open - Unassigned</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope>
+        <sys_update_name>sys_app_module_aafad18c87487d103726ca69cebb3544</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 14:54:01</sys_updated_on>
+        <timeline_page/>
+        <title>Open - Unassigned</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</application>
+        <file_path/>
+        <instance_id>393dcfe8db64dd902f68c597059619f8</instance_id>
+        <instance_name>empdoconnor</instance_name>
+        <name>sys_app_module_aafad18c87487d103726ca69cebb3544</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Customisation Tracker">eefad18c87487d103726ca69cebb3539</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open - Unassigned</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_customtrcker_customisations</name><order>4</order><override_menu_roles>false</override_menu_roles><query>active=true^assigned_toISEMPTY^EQ</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-10 14:54:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aafad18c87487d103726ca69cebb3544</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open - Unassigned</sys_name><sys_overrides/><sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package><sys_policy/><sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope><sys_update_name>sys_app_module_aafad18c87487d103726ca69cebb3544</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-10 14:54:01</sys_updated_on><timeline_page/><title>Open - Unassigned</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1405700362</payload_hash>
+        <record_name>Open - Unassigned</record_name>
+        <reverted_from/>
+        <source>358ad54c87487d103726ca69cebb355f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 14:54:01</sys_created_on>
+        <sys_id>7efad18c87487d103726ca69cebb3577</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189404b90bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 14:54:01</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bafad18cbd487d10759f25f4f99f5545</update_guid>
+        <update_guid_history>bafad18cbd487d10759f25f4f99f5545:-1405700362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Open - Unassigned">e69122848740bd103726ca69cebb3575</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 20:02:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>01b6b8276c014d94809a1ebd25366e84</sys_id>
+        <sys_metadata>aafad18c87487d103726ca69cebb3544</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open - Unassigned</sys_name>
+        <sys_package display_value="Customisation Tracker" source="x_snc_customtrcker">fd8ad1c887487d103726ca69cebb35e4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Customisation Tracker">fd8ad1c887487d103726ca69cebb35e4</sys_scope>
+        <sys_scope_delete display_value="">664fbe32b8044f4bb2268ec88caf65c1</sys_scope_delete>
+        <sys_update_name>sys_app_module_aafad18c87487d103726ca69cebb3544</sys_update_name>
+        <sys_update_version display_value="sys_app_module_aafad18c87487d103726ca69cebb3544">7efad18c87487d103726ca69cebb3577</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 20:02:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
