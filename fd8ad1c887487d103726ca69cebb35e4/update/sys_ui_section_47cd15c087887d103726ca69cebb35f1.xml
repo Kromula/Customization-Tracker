@@ -3,62 +3,64 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>dcdd95c087887d103726ca69cebb3556</sys_id>
+            <sys_created_on>2023-07-10 15:29:34</sys_created_on>
+            <sys_id>2713610c87887d103726ca69cebb35ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
-            <text>Complex - Significant code and technical debt, requiring a developer resource. Needs support and maintenance and would not be supported by ServiceNow
-Medium - Code presence and technical debt. May not be supported by ServiceNow. 
-Low - Low to no code presence. Would likely be supported by ServiceNow</text>
+            <sys_updated_on>2023-07-10 15:29:34</sys_updated_on>
+            <text>&lt;p&gt;&lt;b&gt;&lt;i&gt;Complexity Score&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;Complex&lt;/b&gt; - Significant code and technical debt, requiring a developer resource. Needs support and maintenance and would not be supported by ServiceNow&lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;Medium&lt;/b&gt; - Code presence and technical debt. May not be supported by ServiceNow. &lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;Low&lt;/b&gt; - Low to no code presence. Would likely be supported by ServiceNow&lt;/p&gt;</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>90dd95c087887d103726ca69cebb3557</sys_id>
+            <sys_created_on>2023-07-10 15:29:34</sys_created_on>
+            <sys_id>6f13610c87887d103726ca69cebb35ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
+            <sys_updated_on>2023-07-10 15:29:34</sys_updated_on>
+            <text>&lt;p&gt;&lt;b&gt;&lt;i&gt;Value Score&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;5 – Mandatory&lt;/b&gt;- Customization is required for regulatory and compliance purposes.&lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;4 – Critical&lt;/b&gt; -  Customization is a "must have" to realize a&#13;
+business value objective and/or adoption&#13;
+requirements.&lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;3 – Medium&lt;/b&gt;- Customization supports realization of a business&#13;
+value objective and/or adoption, but&#13;
+workarounds are available.&lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;2 – Low&lt;/b&gt; - Customization supports service experience for&#13;
+service consumers, process users, and/or&#13;
+developers but does not necessarily promote a&#13;
+business value objective or adoption.&lt;/p&gt;&#13;
+&lt;p&gt;&lt;b&gt;1 – No value&lt;/b&gt; - Customization does not support improved&#13;
+service experience, value realization, or&#13;
+adoption.&lt;/p&gt;</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 15:29:34</sys_created_on>
+            <sys_id>2313610c87887d103726ca69cebb35ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 15:29:34</sys_updated_on>
             <text/>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>54dd95c087887d103726ca69cebb3557</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
-            <text>5 – Mandatory - Customization is required for regulatory and compliance purposes.
-4 – Critical -  Customization is a "must have" to realize a
-business value objective and/or adoption
-requirements.
-3 – Medium - Customization supports realization of a business
-value objective and/or adoption, but
-workarounds are available.
-2 – Low - Customization supports service experience for
-service consumers, process users, and/or
-developers but does not necessarily promote a
-business value objective or adoption.
-1 – No value - Customization does not support improved
-service experience, value realization, or
-adoption.</text>
-            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
-        </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>dcdd95c087887d103726ca69cebb3556</element>
+            <element>2713610c87887d103726ca69cebb35ec</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>5cdd95c087887d103726ca69cebb3557</sys_id>
+            <sys_created_on>2023-07-10 15:29:34</sys_created_on>
+            <sys_id>ab13610c87887d103726ca69cebb35f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
+            <sys_updated_on>2023-07-10 15:29:34</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -66,83 +68,69 @@ adoption.</text>
             <element>u_complexity_score</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>50dd95c087887d103726ca69cebb3558</sys_id>
+            <sys_created_on>2023-07-10 15:29:34</sys_created_on>
+            <sys_id>af13610c87887d103726ca69cebb35f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
+            <sys_updated_on>2023-07-10 15:29:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>90dd95c087887d103726ca69cebb3557</element>
+            <element>6f13610c87887d103726ca69cebb35ec</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>54dd95c087887d103726ca69cebb3558</sys_id>
+            <sys_created_on>2023-07-10 15:29:34</sys_created_on>
+            <sys_id>a313610c87887d103726ca69cebb35f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_recommendation</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>58dd95c087887d103726ca69cebb3558</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>5cdd95c087887d103726ca69cebb3558</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>54dd95c087887d103726ca69cebb3557</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>50dd95c087887d103726ca69cebb3559</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
+            <sys_updated_on>2023-07-10 15:29:34</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_value_score</element>
-            <position>6</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>54dd95c087887d103726ca69cebb3559</sys_id>
+            <sys_created_on>2023-07-10 15:29:34</sys_created_on>
+            <sys_id>a713610c87887d103726ca69cebb35f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
+            <sys_updated_on>2023-07-10 15:29:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>2313610c87887d103726ca69cebb35ed</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 15:29:35</sys_created_on>
+            <sys_id>ab13610c87887d103726ca69cebb35f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 15:29:35</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_recommendation</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 15:29:35</sys_created_on>
+            <sys_id>af13610c87887d103726ca69cebb35f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Evaluation" display_value="Evaluation" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">47cd15c087887d103726ca69cebb35f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 15:29:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

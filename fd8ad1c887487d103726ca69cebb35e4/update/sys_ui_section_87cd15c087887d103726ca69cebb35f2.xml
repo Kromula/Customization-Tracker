@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Notes" section_id="87cd15c087887d103726ca69cebb35f2" sys_domain="global" table="x_snc_customtrcker_customisations" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
+            <element>watch_list</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>58dd95c087887d103726ca69cebb355e</sys_id>
+            <sys_created_on>2023-07-10 15:19:24</sys_created_on>
+            <sys_id>26c0e50887887d103726ca69cebb35c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">87cd15c087887d103726ca69cebb35f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
+            <sys_updated_on>2023-07-10 15:19:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-10 15:19:24</sys_created_on>
+            <sys_id>2ac0e50887887d103726ca69cebb35c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">87cd15c087887d103726ca69cebb35f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-10 15:19:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 15:06:25</sys_created_on>
-            <sys_id>5cdd95c087887d103726ca69cebb355e</sys_id>
+            <sys_created_on>2023-07-10 15:19:24</sys_created_on>
+            <sys_id>2ec0e50887887d103726ca69cebb35c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_customtrcker_customisations" sys_domain="global" view="Default view">87cd15c087887d103726ca69cebb35f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 15:06:25</sys_updated_on>
+            <sys_updated_on>2023-07-10 15:19:24</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
